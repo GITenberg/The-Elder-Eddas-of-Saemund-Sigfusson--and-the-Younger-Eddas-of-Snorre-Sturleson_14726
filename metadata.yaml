@@ -1,0 +1,45 @@
+_repo: The-Elder-Eddas-of-Saemund-Sigfusson--and-the-Younger-Eddas-of-Snorre-Sturleson_14726
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Thorpe, Benjamin
+    alias: Thorpe, B. (Benjamin)
+    birthdate: 1782
+    deathdate: 1870
+    gutenberg_agent_id: '39402'
+    url: http://www.gutenberg.org/2009/agents/39402
+  - agent_name: Blackwell, I. A.
+    gutenberg_agent_id: '39403'
+    url: http://www.gutenberg.org/2009/agents/39403
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Snorri Sturluson
+    aliases:
+    - Sturleson, Snorro
+    - Sturluson, Snorri
+    - Sturlason, Snorre
+    deathdate: 1241
+    gutenberg_agent_id: '312'
+    url: http://www.gutenberg.org/2009/agents/312
+    wikipedia: http://en.wikipedia.org/wiki/Snorri_Sturluson
+  - agent_name: Saemund Sigfusson
+    gutenberg_agent_id: '5649'
+    url: http://www.gutenberg.org/2009/agents/5649
+description: ''
+gutenberg_issued: '2005-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scalds and scaldic poetry'
+- !lcc 'PT'
+- !lcsh 'Mythology, Norse'
+title: The Elder Eddas of Saemund Sigfusson; and the Younger Eddas of Snorre Sturleson
+url: http://www.gutenberg.org/ebooks/14726
