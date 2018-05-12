@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '5649'
     url: http://www.gutenberg.org/2009/agents/5649
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14726#The-Elder-Eddas-of-Saemund-Sigfusson--and-the-Younger-Eddas-of-Snorre-Sturleson
 gutenberg_issued: '2005-01-18'
 gutenberg_type: Text
 identifiers:
